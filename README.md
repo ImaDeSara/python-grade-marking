@@ -5,6 +5,7 @@ The program validates user input, displays the appropriate progression outcome, 
 
 
 
+
 Part 1 – Basic Outcome Prediction
 
 
@@ -22,12 +23,14 @@ Exclude – Student is excluded due to excessive failed credits.
 
 
 
+
 Part 2 – List Storage
 
 
 Stores all student outcomes and credit inputs in a nested list.
 
 Displays saved outcomes in a structured format.
+
 
 
 
@@ -40,12 +43,14 @@ Reads the stored data and displays it in the required format.
 
 
 
+
 Part 4 – Dictionary Storage
 
 
 Stores progression outcomes using a nested dictionary with unique student IDs.
 
 Displays stored outcomes alongside student IDs.
+
 
 
 
@@ -62,12 +67,14 @@ Range Validation → Displays Out of range if the entered credits are not one of
 Total Validation → Displays Total incorrect if the total of pass + defer + fail ≠ 120.
 
 
+
 Histogram Generation
 
 
 After entering multiple students’ data, the program displays a horizontal histogram summarizing all progression outcomes.
 
 Each * represents one student in the corresponding category.
+
 
 
 Technologies Used
